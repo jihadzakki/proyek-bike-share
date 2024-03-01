@@ -1,6 +1,3 @@
-
-markdown
-Copy code
 # Bike-Share Dashboard and Analysis 🚲📊
 
 ## Overview of the Project
