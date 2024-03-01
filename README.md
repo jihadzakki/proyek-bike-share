@@ -28,6 +28,12 @@ To see the analysis results starting from Data Wrangling, Exploratory Data Analy
 Online access can be found via the following link: [Bike-Share Dashboard](https://bike-share-jihadzakki.streamlit.app/)
 
 ## Access Local Bike-Share Dashboard and This Project
+```
+Setup the environment:
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+```
 To run the dashboard locally, run the following command in the terminal:
 ```
 streamlit run dashboard.py
