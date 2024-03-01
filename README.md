@@ -29,10 +29,7 @@ Online access can be found via the following link: [Bike-Share Dashboard](https:
 
 ## Access Local Bike-Share Dashboard and This Project
 To run the dashboard locally, run the following command in the terminal:
-'''
-streamlit run dashboard.py
-'''
-
+'''streamlit run dashboard.py'''
 ## Screenshot Dashboard
 ![image](https://github.com/jihadzakki/proyek-bike-share/assets/109097390/1fbc6642-25a7-4479-91a0-0c12cc3159ae)
 ![image](https://github.com/jihadzakki/proyek-bike-share/assets/109097390/5777cc80-2656-41d3-b5d9-1fbd731c04fe)
