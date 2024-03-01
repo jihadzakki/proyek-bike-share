@@ -63,7 +63,7 @@ def create_rfm_df(df):
     
     return rfm_df
 
-day_df = pd.read_csv("cleaned_day_df.csv")
+day_df = pd.read_csv("https://raw.githubusercontent.com/jihadzakki/proyek-bike-share/main/dashboard/cleaned_day_df.csv")
 hour_df = pd.read_csv("cleaned_hour_df.csv")
 
 datetime_columns = ["dteday"]
