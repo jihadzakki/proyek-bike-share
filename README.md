@@ -10,7 +10,7 @@ This project aims to perform data analysis on the bike-share dataset. The analys
 Bike rental data is highly correlated with environmental and seasonal conditions. For example, weather conditions, precipitation, day of the week, season, time of day, etc., can affect rental behavior. The core dataset is related to two years' historical records corresponding to the years 2011 and 2012 from the Capital Bikeshare system, Washington D.C., USA, which is publicly available at http://capitalbikeshare.com/system-data. We aggregated the data on two-hourly and daily bases, then extracted and added corresponding weather and seasonal information. Weather information is extracted from http://www.freemeteo.com.
 
 ## Overview of the Repository Directory
-- /dashboard: Contains main files displayed for the dashboard and 1 cleaned dataset and 1 image for the dashboard
+- /dashboard: Contains main files displayed for the dashboard
 - /data: Stores datasets used for analysis (Bike Sharing Dataset)
 - notebook.ipynb: Jupyter notebook file containing the data analysis conducted
 - README.md: Information file about this project
